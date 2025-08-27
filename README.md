@@ -69,8 +69,8 @@ Steel box sections formed by extrusion often have a seam that protrudes into the
 These are the only parts of the project that need to be custom-made. Various CNC and waterjet companies are available - if you shop around you should be able to get them made for approximately £100. I have had good experiences with Xometry. A referral link to sign up is available [here](https://get.xometry.uk/r/0f2031980c). DXF / STEP files are available in [Manufacturing files](https://github.com/Heptagon-1/Compressor/Manufacturing-files).
 | Part        	| Quantity 	| CAD File     	| Notes                                       	|
 |-------------	|----------	|--------------	|---------------------------------------------	|
-| T-bracket   	| 8        	| Here **WIP** 	| 4mm thickness. Any aluminium grade. 	|
-| Limb finger 	| 4        	| Here **WIP** 	| Any aluminium grade.                	|
+| T-bracket   	| 8        	| [Here](https://github.com/Heptagon-1/Compressor/blob/11d47ba0ad7eb2a5d8b051cd0867298a8ce81131/Manufacturing%20files/T%20Bracket.dxf)	| 4mm thickness. Any aluminium grade. 	|
+| Limb finger 	| 4        	| [Here](https://github.com/Heptagon-1/Compressor/blob/11d47ba0ad7eb2a5d8b051cd0867298a8ce81131/Manufacturing%20files/Finger.step)	| Any aluminium grade.                	|
 ### Other
 | Part                           	| Quantity 	| Notes                                                                                                                                                                                  	|   	|
 |--------------------------------	|----------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---	|
