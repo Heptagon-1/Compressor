@@ -1,6 +1,7 @@
 
 # Compressor: Open Source Compound Bow Press
 ⚠️ **Under construction - CAD files are mature but documentation is still WIP** ⚠️
+![Assembly](/Images/assembly.png)
 
 Compressor is a low-cost, highly capable open-source bow press designed to be constructed from commonly available steel and aluminium stock. 
 ## Features:
@@ -26,7 +27,7 @@ Compressor is a low-cost, highly capable open-source bow press designed to be co
 | M6x22 hex bolt                     	| 1        	|                                                                                                                                                                                                                                                                                        	|
 | M6x35 star knob                    	| 1        	| [Example](https://www.accu.co.uk/threaded-clamping-knobs/588655-HHW-M6-40-35-2-PA)                                                                                                                                                                                                     	|
 | M6x85 plain hex bolt               	| 1        	| Plain hex bolt, **not** full threaded. Unthreaded section ~67mm required.                                                                                                                                                                                                              	|
-| M6 free-spinning handle            	| 2        	| [Example](https://www.vital-parts.co.uk/m6-x-15mm-x-55mm-rotating-nylon--bzp-cylindrical-threaded-handle---male-40202-p.asp). Alternatively this can be 3D printed, in which case an additional M6x70 plain **socket-head** bolt and m6x22 hex bolt will be required for each handle. STL is available [here](https://github.com/Heptagon-1/Compressor/tree/63e16368ba4e3e676f7389ce6df493a71925c3a8/Manufacturing%20files). If buying them, ensure at the thread length is at least 10mm.   	|
+| M6 free-spinning handle            	| 2        	| [Example](https://www.vital-parts.co.uk/m6-x-15mm-x-55mm-rotating-nylon--bzp-cylindrical-threaded-handle---male-40202-p.asp). Alternatively this can be 3D printed, in which case an additional M6x70 plain **socket-head** bolt and m6x22 hex bolt will be required for each handle. STL is available [here](/Manufacturing%20files/Rotating_handle.stl). If buying them, ensure at the thread length is at least 10mm.   	|
 |                                    	|          	|                                                                                                                                                                                                                                                                                        	|
 | M8 thin nut                        	| 4        	|                                                                                                                                                                                                                                                                                        	|
 | M8 washer                          	| 64       	|                                                                                                                                                                                                                                                                                        	|
@@ -66,11 +67,11 @@ Steel box sections formed by extrusion often have a seam that protrudes into the
 |            	|                               	|          	|                                                                                             	|
 | C-channel  	| 2" x 2" x 1/8", length = 60mm 	| 1        	|                                                                                             	|
 ### Custom Manufactured Parts
-These are the only parts of the project that need to be custom-made. Various CNC and waterjet companies are available - if you shop around you should be able to get them made for approximately £100. I have had good experiences with Xometry. A referral link to sign up is available [here](https://get.xometry.uk/r/0f2031980c). DXF / STEP files are available in [Manufacturing files](https://github.com/Heptagon-1/Compressor/Manufacturing-files).
+These are the only parts of the project that need to be custom-made. Various CNC and waterjet companies are available - if you shop around you should be able to get them made for approximately £100. I have had good experiences with Xometry. A referral link to sign up is available [here](https://get.xometry.uk/r/0f2031980c). DXF / STEP files are available in [Manufacturing files](/Manufacturing%20files).
 | Part        	| Quantity 	| CAD File     	| Notes                                       	|
 |-------------	|----------	|--------------	|---------------------------------------------	|
-| T-bracket   	| 8        	| [Here](https://github.com/Heptagon-1/Compressor/blob/11d47ba0ad7eb2a5d8b051cd0867298a8ce81131/Manufacturing%20files/T%20Bracket.dxf)	| 4mm thickness. Any aluminium grade. 	|
-| Limb finger 	| 4        	| [Here](https://github.com/Heptagon-1/Compressor/blob/11d47ba0ad7eb2a5d8b051cd0867298a8ce81131/Manufacturing%20files/Finger.step)	| Any aluminium grade.                	|
+| T-bracket   	| 8        	| [Here](/Manufacturing%20files/T%20Bracket.dxf)	| 4mm thickness. Any aluminium grade. 	|
+| Limb finger 	| 4        	| [Here](/Manufacturing%20files/Finger.step)	| Any aluminium grade.                	|
 ### Other
 | Part                           	| Quantity 	| Notes                                                                                                                                                                                  	|   	|
 |--------------------------------	|----------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---	|
