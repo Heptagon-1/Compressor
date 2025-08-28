@@ -50,8 +50,7 @@ Steel box sections formed by extrusion often have a seam that protrudes into the
 | Stock type              	| Dimensions                            	| Quantity 	| Notes 	|
 |-------------------------	|---------------------------------------	|----------	|-------	|
 | Square box section      	| 60x60mm, 4mm thickness, 1000mm length 	| 1        	|       	|
-|                         	| 60x60mm, 4mm thickness, 150mm length  	| 2        	|       	|
-|                         	| 60x60mm, 4mm thickness, 149mm length  	| 1        	|       	|
+|                         	| 60x60mm, 4mm thickness, 149mm length  	| 3        	|       	|
 |                         	|                                       	|          	|       	|
 |                         	| 50x50mm, 4mm thickness, 480mm length  	| 1        	|       	|
 |                         	| 50x50mm, 4mm thickness, 154mm         	| 1        	|       	|
@@ -61,11 +60,14 @@ Steel box sections formed by extrusion often have a seam that protrudes into the
 | C-channel               	| 50x50mm, 3mm thickness, 50mm length   	| 1        	|       	|
 |                         	| 40x40mm, 3mm thickness, 40mm length   	| 1        	|       	|
 #### Aluminium
-| Stock type 	| Dimensions                    	| Quantity 	| Notes                                                                                       	|
-|------------	|-------------------------------	|----------	|---------------------------------------------------------------------------------------------	|
-| Flat bar   	| 2" x 1/4", length = ~130mm    	| 1        	| Steel is sold in metric but a lot of aluminium still seems to be imperial for some reason.  	|
-|            	|                               	|          	|                                                                                             	|
-| C-channel  	| 2" x 2" x 1/8", length = 60mm 	| 1        	|                                                                                             	|
+| Stock type 	| Dimensions                    	| Quantity 	| Notes                                                                                      	|
+|------------	|-------------------------------	|----------	|--------------------------------------------------------------------------------------------	|
+| Flat bar   	| 2" x 1/4", length = ~130mm    	| 1        	| Steel is sold in metric but a lot of aluminium still seems to be imperial for some reason. 	|
+|            	|                               	|          	|                                                                                            	|
+| C-channel  	| 2" x 2" x 1/8", length = 60mm 	| 1        	|                                                                                            	|
+|            	|                               	|          	|                                                                                            	|
+| Square bar 	| 15x15mm, length=200mm         	|          	|                                                                                            	|
+|            	| 20x20mm, length=200mm         	|          	|                                                                                            	|
 ### Custom Manufactured Parts
 These are the only parts of the project that need to be custom-made. Various CNC and waterjet companies are available - if you shop around you should be able to get them made for approximately £100. I have had good experiences with Xometry. A referral link to sign up is available [here](https://get.xometry.uk/r/0f2031980c). DXF / STEP files are available in [Manufacturing files](/Manufacturing%20files).
 | Part        	| Quantity 	| CAD File     	| Notes                                       	|
