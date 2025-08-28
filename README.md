@@ -83,12 +83,15 @@ These are the only parts of the project that need to be custom-made. Various CNC
 | Electrical tape                	|          	|                                                                                                                                                                                        	|   	|
 | A4 craft foam sheet            	|          	|                                                                                                                                                                                        	|   	|
 | 2" x 4" timber, length = 300mm 	| 2        	| Dimensions are not critical. Wooden feet stop the press from scratching the surface it sits on.                                                                                	|   	|
-## Tools Required
-- Flat files
+## Tools Used
+- Flat file
+- Round file
 - Hacksaw
 - Cordless drill, common drill bit sizes and cutting fluid
 	- Drill bit list TBC
 - M6 and M8 taps
 - Marking out tools
+- Adjustable spanner
+- Socket set
 
 
