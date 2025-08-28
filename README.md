@@ -66,8 +66,8 @@ Steel box sections formed by extrusion often have a seam that protrudes into the
 |            	|                               	|          	|                                                                                            	|
 | C-channel  	| 2" x 2" x 1/8", length = 60mm 	| 1        	|                                                                                            	|
 |            	|                               	|          	|                                                                                            	|
-| Square bar 	| 15x15mm, length=200mm         	|          	|                                                                                            	|
-|            	| 20x20mm, length=200mm         	|          	|                                                                                            	|
+| Square bar 	| 15x15mm, length=200mm         	| 1          	|                                                                                            	|
+|            	| 20x20mm, length=200mm         	| 1         	|                                                                                            	|
 ### Custom Manufactured Parts
 These are the only parts of the project that need to be custom-made. Various CNC and waterjet companies are available - if you shop around you should be able to get them made for approximately £100. I have had good experiences with Xometry. A referral link to sign up is available [here](https://get.xometry.uk/r/0f2031980c). DXF / STEP files are available in [Manufacturing files](/Manufacturing%20files).
 | Part        	| Quantity 	| CAD File     	| Notes                                       	|
