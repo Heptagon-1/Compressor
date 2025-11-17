@@ -1,6 +1,5 @@
 
 # Compressor: Open Source Compound Bow Press
-⚠️ **Under construction - CAD files are mature but documentation is still WIP** ⚠️
 ![Assembly](/Images/assembly.png)
 
 Compressor is a low-cost, highly capable open-source bow press designed to be constructed from commonly available steel and aluminium stock. 
